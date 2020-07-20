@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Libros xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:noNamespaceSchemaLocation="libros.xsd">
+   <libro género="NOVELA HISTÓRICA">
+     <título>SIDI</título>
+     <autor>Arturo Pérez Reverte</autor>
+     <año>2019</año>
+     <precio>19.85</precio>
+    </libro>
+   <libro género="INFORMÁTICA">
+     <título>Iniciación a XQuery</título>
+     <autor>James McGovern</autor>
+     <autor>Per Bothner</autor>
+     <autor>Kurt Cagle</autor>
+     <autor>James Linn</autor>
+     <autor>Vaidyanathan Nagarajan</autor>
+     <año>2003</año>
+     <precio>49.99</precio>
+   </libro>
+   <libro género="INFORMÁTICA">
+      <título>Learning XML</título>
+     <autor>Erik.T.Ray</autor>
+     <año>2003</año>
+     <precio>39.95</precio>
+    </libro>
+</Libros>
